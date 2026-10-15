@@ -1,24 +1,44 @@
-This is free and unencumbered software released into the public domain.
+### Disclaimer
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+Copyright (c) 2026 AsaneNAY All rights reserved
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+This project is provided for personal learning and research only
+No one may modify, redistribute, sell, or create derivative works
+without the author's written permission
+Only releases published at https://github.com/AsaneNAY/Mobile-App-Collection-Share
+are official versions
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
-
-For more information, please refer to <https://unlicense.org>
+> **General Disclaimer**
+> All files provided by this repository/project (hereinafter referred to as "the Project"), including but not limited to source code, binary programs, configuration files, scripts, tools, documentation, screenshots, sample data, and other related materials, are intended solely for personal learning, technical research, academic exchange, and non-commercial experimental use. Before downloading, copying, compiling, running, modifying, distributing, or otherwise using the content of this Project in any way, please read and understand this disclaimer carefully.
+>
+> **Non-Commercial Use**
+> The Project shall not be used for any commercial purposes, including but not limited to selling, renting, licensing, paid downloads, bundling sales, membership-based distribution, advertising monetization, sharing in paid communities, or use as supplementary materials for paid courses. Users shall not derive direct or indirect economic benefits from this Project.
+>
+> **Learning and Research Purposes**
+> The Project aims to help users understand software implementation principles, system interaction mechanisms, file format parsing, tool development methods, and related technical knowledge. Users should use it for lawful and legitimate learning and research activities. Users shall not use the Project to engage in acts that infringe upon the legal rights of others, compromise network security, disrupt normal services, or violate laws and regulations.
+>
+> **Prohibition of Illegal Activities**
+> Users shall not use the Project for cracking, piracy, bypassing authorization, attacking other systems, stealing data, spreading malware, interfering with the normal operation of games or services, infringing on third-party intellectual property rights, or any other illegal purposes. Any legal disputes, administrative penalties, or criminal liabilities arising from improper use by the user shall be borne solely by the user.
+>
+> **Special Note on Games and Related Content**
+> If the Project involves games, game mods, game tools, game resources, or related technical examples, the purpose is strictly limited to learning about game development, resource parsing, protocol interaction, rendering mechanisms, plugin architecture, and other technical content. Users shall not use the Project to create, distribute, or use cheats, hacking tools, crack patches, or pirated resources. Furthermore, users shall not use the Project in multiplayer environments, official servers, or commercial products to undermine fairness, disrupt other users, or harm the legitimate rights and interests of operators. Please respect the labor of game developers and support genuine software and games.
+>
+> **Third-Party Content and Intellectual Property**
+> The Project may contain third-party software, libraries, fonts, icons, documents, game resources, or other copyrighted content, the rights to which belong to their respective owners. Users must comply with the corresponding license agreements and copyright regulations and shall not copy, distribute, modify, or use them in unauthorized scenarios. If this Project inadvertently infringes upon your rights, please contact us promptly, and we will verify and handle the matter as soon as possible.
+>
+> **No Warranty**
+> The Project is provided "as is" without any express or implied warranties, including but not limited to warranties of merchantability, stability, security, completeness, error-free operation, virus-free status, or fitness for a particular purpose. Users should assess the risks of use themselves and conduct experiments in isolated or test environments.
+>
+> **Assumption of Risk**
+> Any losses resulting from the use or inability to use the Project, including but not limited to data loss, device damage, system anomalies, account restrictions, bans, service interruptions, privacy breaches, economic losses, or legal disputes, shall be borne by the user. The developers and contributors of the Project shall not bear any civil, administrative, or criminal liability.
+>
+> **Post-Download Handling**
+> It is recommended that users delete all files related to this Project promptly after completing their learning or research. Users shall not retain them for long periods, repackage them, distribute them publicly, or provide them to third parties who have not read and agreed to this disclaimer.
+>
+> **Changes to the Disclaimer**
+> The developer reserves the right to update this disclaimer as needed. The updated disclaimer shall take effect from the date of publication. Continued use of the Project constitutes acceptance of the latest disclaimer.
+>
+> **Governing Law**
+> The interpretation and application of this disclaimer shall be governed by the relevant laws and regulations of the user's location and the developer's location. If any provision of this disclaimer is held to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+>
+> If you have any questions regarding this disclaimer, or if you discover any infringing or non-compliant content in this Project, please provide feedback via the repository Issue or the provided contact information, and we will verify and handle the matter as soon as possible.
