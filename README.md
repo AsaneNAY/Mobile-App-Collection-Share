@@ -32,7 +32,6 @@ There isn't much here, so I won't bother categorizing it for now.
 
 # 手机软件集合分享
 
----
 
 本项目发布的所有内容均面向Windows系统。
 
