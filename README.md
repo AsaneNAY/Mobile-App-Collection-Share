@@ -1,6 +1,5 @@
 # Mobile-App-Collection-Share
 
----
 
 All content released by this project is intended for Android systems.
 
@@ -31,7 +30,7 @@ There isn't much here, so I won't bother categorizing it for now.
 [PDF Editor](https://github.com/AsaneNAY/Mobile-App-Collection-Share/releases/tag/PDF%E7%BC%96%E8%BE%91%E5%99%A8)
 
 
-#手机软件集合分享
+# 手机软件集合分享
 
 ---
 
