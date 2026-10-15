@@ -33,7 +33,7 @@ There isn't much here, so I won't bother categorizing it for now.
 # 手机软件集合分享
 
 
-本项目发布的所有内容均面向Windows系统。
+本项目发布的所有内容均面向Android系统。
 
 其他操作系统尚未测试;请自行斟酌。
 
